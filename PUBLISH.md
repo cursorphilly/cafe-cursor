@@ -4,7 +4,7 @@
 
 | Repo | Local path | GitHub | Notes |
 |------|------------|--------|-------|
-| **cafe-cursor** | `projects/cafe-cursor` | **Not pushed** — create repo | Attendee hub |
+| **cafe-cursor** | `projects/cafe-cursor` | **[cursorphilly/cafe-cursor](https://github.com/cursorphilly/cafe-cursor)** | Attendee hub |
 | **ar-zine-starter** | `projects/zine-ar` | **Live as [zine-ar](https://github.com/luiscielak/zine-ar)** | Rename on GitHub when ready |
 
 AR reader deployed: **https://zine-ar-lemon.vercel.app**
@@ -16,7 +16,7 @@ AR reader deployed: **https://zine-ar-lemon.vercel.app**
 ```bash
 cd "/Users/luiscielak/Library/Mobile Documents/com~apple~CloudDocs/projects/cafe-cursor"
 gh auth login   # if needed
-gh repo create luiscielak/cafe-cursor --public --source=. --remote=origin --push
+gh repo create cursorphilly/cafe-cursor --public --source=. --remote=origin --push
 ```
 
 If the repo already exists:
