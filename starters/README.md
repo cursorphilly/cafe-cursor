@@ -6,7 +6,7 @@ Curated projects for Cafe Cursor co-work. Clone one and build — or bring your 
 
 ## AR zine starter (Issue 1 project)
 
-**[github.com/luiscielak/ar-zine-starter](https://github.com/luiscielak/ar-zine-starter)**
+**[github.com/luiscielak/zine-ar](https://github.com/luiscielak/zine-ar)** — live repo; rename to `ar-zine-starter` on GitHub when ready ([PUBLISH.md](../PUBLISH.md))
 
 WebAR zine: print pages, scan with your phone, AR layers appear. MindAR + A-Frame, no app install.
 
@@ -18,11 +18,11 @@ WebAR zine: print pages, scan with your phone, AR layers appear. MindAR + A-Fram
 
 **Clone in Cursor:**
 
-[`vscode://vscode.git/clone?url=https%3A%2F%2Fgithub.com%2Fluiscielak%2Far-zine-starter.git`](vscode://vscode.git/clone?url=https%3A%2F%2Fgithub.com%2Fluiscielak%2Far-zine-starter.git)
+[`vscode://vscode.git/clone?url=https%3A%2F%2Fgithub.com%2Fluiscielak%2Fzine-ar.git`](vscode://vscode.git/clone?url=https%3A%2F%2Fgithub.com%2Fluiscielak%2Fzine-ar.git)
 
 ```bash
-git clone https://github.com/luiscielak/ar-zine-starter.git
-cd ar-zine-starter
+git clone https://github.com/luiscielak/zine-ar.git
+cd zine-ar
 ```
 
 Read `AGENTS.md` and `CAFE-CURSOR.md` after cloning.

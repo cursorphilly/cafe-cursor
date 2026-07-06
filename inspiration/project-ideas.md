@@ -6,9 +6,9 @@ Copy-paste prompts for open build time. Pick one, or bring your own backlog.
 
 ## AR zine (featured)
 
-Fork [ar-zine-starter](https://github.com/luiscielak/ar-zine-starter) and add **page 3**:
+Fork [zine-ar](https://github.com/luiscielak/zine-ar) and add **page 3**:
 
-> I forked ar-zine-starter. Help me add a fourth zine page: create artwork in targets/page-3.png (high contrast, busy collage style), add an entry to src/content.js with one sticker layer and one 3D model, then walk me through npm run compile-targets.
+> I forked zine-ar (ar-zine-starter). Help me add a fourth zine page: create artwork in targets/page-3.png (high contrast, busy collage style), add an entry to src/content.js with one sticker layer and one 3D model, then walk me through npm run compile-targets.
 
 ---
 

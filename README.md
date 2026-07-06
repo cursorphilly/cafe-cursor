@@ -13,6 +13,7 @@ Cafe Cursor is a relaxed daytime co-work session for developers, designers, and 
 | Section | What it is |
 |---------|------------|
 | [day-of/](day-of/README.md) | Schedule, venue, what to expect, what to bring |
+| [day-of/print-run.md](day-of/print-run.md) | Batch print checklist for Issue 1 zines |
 | [starters/](starters/README.md) | Forkable project repos — including the AR zine starter |
 | [inspiration/](inspiration/project-ideas.md) | Co-work prompts and community workflows |
 | [GETTING-STARTED.md](GETTING-STARTED.md) | New to Cursor? Install and first steps |
@@ -24,11 +25,11 @@ Cafe Cursor is a relaxed daytime co-work session for developers, designers, and 
 
 The physical zine you received at Cafe Cursor is a **WebAR zine** — point your phone at a page and AR layers pop up. Fork the starter and add your own page:
 
-**[ar-zine-starter](https://github.com/luiscielak/ar-zine-starter)**
+**[zine-ar](https://github.com/luiscielak/zine-ar)** — AR zine starter (rename to `ar-zine-starter` on GitHub when ready)
 
 Open in Cursor:
 
-[`vscode://vscode.git/clone?url=https%3A%2F%2Fgithub.com%2Fluiscielak%2Far-zine-starter.git`](vscode://vscode.git/clone?url=https%3A%2F%2Fgithub.com%2Fluiscielak%2Far-zine-starter.git)
+[`vscode://vscode.git/clone?url=https%3A%2F%2Fgithub.com%2Fluiscielak%2Fzine-ar.git`](vscode://vscode.git/clone?url=https%3A%2F%2Fgithub.com%2Fluiscielak%2Fzine-ar.git)
 
 ---
 

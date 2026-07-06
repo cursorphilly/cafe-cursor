@@ -34,7 +34,7 @@ No presentations, no strict agenda. Come for the whole window or drop in for a c
 - Share what you're building (or just listen in)
 - Cursor credits available for attendees (limited — first come, first served) — see [CREDITS.md](../CREDITS.md)
 - Food and drinks provided
-- Physical **AR zine** (Issue 1) — scan pages with your phone for AR layers; fork [ar-zine-starter](https://github.com/luiscielak/ar-zine-starter) to make your own
+- Physical **AR zine** (Issue 1) — scan pages with your phone for AR layers; fork [zine-ar](https://github.com/luiscielak/zine-ar) to make your own
 
 ---
 

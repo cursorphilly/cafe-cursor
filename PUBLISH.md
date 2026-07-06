@@ -1,6 +1,15 @@
 # Publish to GitHub
 
-Local repos are ready. Create the remote repositories and push:
+## Status
+
+| Repo | Local path | GitHub | Notes |
+|------|------------|--------|-------|
+| **cafe-cursor** | `projects/cafe-cursor` | **Not pushed** — create repo | Attendee hub |
+| **ar-zine-starter** | `projects/zine-ar` | **Live as [zine-ar](https://github.com/luiscielak/zine-ar)** | Rename on GitHub when ready |
+
+AR reader deployed: **https://zine-ar-lemon.vercel.app**
+
+---
 
 ## cafe-cursor (attendee hub)
 
@@ -8,28 +17,39 @@ Local repos are ready. Create the remote repositories and push:
 cd "/Users/luiscielak/Library/Mobile Documents/com~apple~CloudDocs/projects/cafe-cursor"
 gh auth login   # if needed
 gh repo create luiscielak/cafe-cursor --public --source=. --remote=origin --push
-# Or if repo exists:
+```
+
+If the repo already exists:
+
+```bash
 git push -u origin main
 ```
 
-## ar-zine-starter (from zine-ar)
+---
+
+## ar-zine-starter
+
+Code is on **github.com/luiscielak/zine-ar**. To rename:
+
+1. GitHub → **zine-ar** → Settings → General → **Repository name** → `ar-zine-starter`
+2. Update any clone URLs in docs if needed
+
+Or create a new repo and push:
 
 ```bash
 cd "/Users/luiscielak/Library/Mobile Documents/com~apple~CloudDocs/projects/zine-ar"
 gh repo create luiscielak/ar-zine-starter --public --source=. --remote=ar-starter --push
-# Or rename remote and push:
-git remote add ar-starter git@github.com:luiscielak/ar-zine-starter.git
-git push -u ar-starter main
 ```
 
-The existing `origin` remote points at `luiscielak/zine-ar` if you prefer to keep that name and add `ar-zine-starter` as a new repo.
+---
 
-## Deploy AR reader (Vercel)
+## Redeploy AR reader after changes
 
 ```bash
 cd "/Users/luiscielak/Library/Mobile Documents/com~apple~CloudDocs/projects/zine-ar"
-npm run make-cafe-pages
-npm run compile-targets
+npm run make-cafe-pages    # optional: regenerate spread art
+npm run compile-targets    # rebakes cover QR + zine.mind
 vercel --prod
-# Update src/site-config.js READER_URL with the production URL, then re-run compile-targets and redeploy.
 ```
+
+Update `src/site-config.js` `READER_URL` if the production URL changes, then re-run `compile-targets` and redeploy.

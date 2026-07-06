@@ -67,7 +67,7 @@ Patterns that surfaced at Cursor Meetup Philadelphia — especially the June 30,
 
 **Why:** YouTube won't teach you what 30 minutes of failing will. One group recommended hands-on play over passive tutorials.
 
-**Try at Cafe Cursor:** Add a page to the [AR zine starter](https://github.com/luiscielak/ar-zine-starter) with a ridiculous AR layer — learn the pipeline without production pressure.
+**Try at Cafe Cursor:** Add a page to the [AR zine starter](https://github.com/luiscielak/zine-ar) with a ridiculous AR layer — learn the pipeline without production pressure.
 
 ---
 

@@ -26,4 +26,4 @@ First Cafe Cursor? You only need a laptop and curiosity — but having Cursor in
 
 - No formal workshop — work on whatever you brought, or pick a prompt from [inspiration/project-ideas.md](inspiration/project-ideas.md)
 - Stuck? Ask the room. That's the point.
-- Try the [AR zine starter](https://github.com/luiscielak/ar-zine-starter) if you want a guided build-along project
+- Try the [AR zine starter](https://github.com/luiscielak/zine-ar) if you want a guided build-along project
