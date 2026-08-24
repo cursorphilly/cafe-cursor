@@ -4,7 +4,7 @@
 
 | Repo | Local path | GitHub | Notes |
 |------|------------|--------|-------|
-| **cafe-cursor** | `projects/cafe-cursor` | **[cursorphilly/cafe-cursor](https://github.com/cursorphilly/cafe-cursor)** | Attendee hub |
+| **cafe-cursor** | `projects/cafe-cursor` | **[cursorphilly/cafe-cursor-hub](https://github.com/cursorphilly/cafe-cursor-hub)** | Attendee hub |
 | **ar-zine-starter** | `projects/zine-ar` | **Live as [zine-ar](https://github.com/luiscielak/zine-ar)** | Rename on GitHub when ready |
 
 AR reader deployed: **https://zine-ar-lemon.vercel.app**

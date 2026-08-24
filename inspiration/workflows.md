@@ -81,4 +81,4 @@ The room traded tools freely:
 
 ---
 
-*Source: [Cursor Meetup Philadelphia — June 30, 2026](https://github.com/luiscielak/cursor-meetup/blob/main/events/2026-06-30/group-share-summary.md)*
+*Source: [Cursor Meetup Philadelphia — June 30, 2026](https://github.com/cursorphilly/cursor-meetup/blob/main/events/2026-06-30/group-share-summary.md)*

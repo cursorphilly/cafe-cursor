@@ -48,4 +48,4 @@ The [Grill Me skill](skills/grill-me/SKILL.md) surfaced independently in three b
 
 ---
 
-*Organized by [Cursor Meetup Philadelphia](https://github.com/luiscielak/cursor-meetup). Attendee-facing content lives in this repo; event ops stay in the meetup repo.*
+*Organized by [Cursor Meetup Philadelphia](https://github.com/cursorphilly/cursor-meetup). Attendee-facing content lives in this repo; event ops stay in the meetup repo.*
